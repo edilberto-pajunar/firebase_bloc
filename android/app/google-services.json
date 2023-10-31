@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49703148054",
+    "project_id": "bloc-cbc4e",
+    "storage_bucket": "bloc-cbc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49703148054:android:50710c568e2f9e84d9b337",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YQ4s_NHt3lmaQiUX8AlASBMLts5lFdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
